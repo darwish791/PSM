@@ -5,11 +5,40 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main menu.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok.unity
+    guid: f30353da1745a134c889518d9547b2ad
+  - enabled: 1
+    path: Assets/Scenes/Scene/Kad Imbas AR.unity
+    guid: 9b66e74a9e5b9d04c95daa6649e2638f
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Kenapa Perlu Henti.unity
+    guid: e1f8a469d60e9f84c8f98047bf156e96
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Persediaan Untuk Berhenti.unity
+    guid: e51744fd5ad8b894b9a9f88098aa13d8
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Mula.unity
+    guid: ba368399505daa74dbf1c0d85364bbc7
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Kenapa Perlu henti/Masalah Kesihatan.unity
+    guid: a3a67f73d6d07714c911c6ab9d8f8f09
   - enabled: 1
     path: Assets/Scenes/Scene/Modul Henti Rokok/Kenapa Perlu henti/Berapa Banyak Wang
       Boleh Dijimatkan.unity
     guid: 31c5c45f8d02b564981f8b74bcf01aab
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Kenapa Perlu henti/Perokok Pasif.unity
+    guid: 095a4abf91f4cd346bd4959ccad97721
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Persediaan Untuk Berhenti/Mengawal
+      Mood.unity
+    guid: 6a02506f46e0bfe4480d5a8ad4db5464
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Persediaan Untuk Berhenti/Mengawal
+      Stress.unity
+    guid: e9c81d62a5cd3734ebaae517fcc7e12c
   m_configObjects: {}
