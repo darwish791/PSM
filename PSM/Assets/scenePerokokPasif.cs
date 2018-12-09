@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+public class scenePerokokPasif : MonoBehaviour {
 
-public class sceneHentiRokok : MonoBehaviour {
-
-    public void kenapaPerluBerhenti()
+    public void kembali()
     {
         SceneManager.LoadScene(3);
     }

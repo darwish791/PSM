@@ -3,14 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class sceneMainMenu : MonoBehaviour {
+public class sceneMengawalMood : MonoBehaviour {
 
-    public void Modul_Henti_Rokok()
+    public void kembali()
     {
         SceneManager.LoadScene(1);
     }
-
-
-		
-	
 }
