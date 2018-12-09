@@ -4,7 +4,12 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class sceneKenapaPerluHenti : MonoBehaviour {
+public class sceneKenapaPerluHenti : MonoBehaviour
+{
+    public void Quit()
+    {
+        Application.Quit();
+    }
 
     public void kembali()
     {

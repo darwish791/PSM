@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class sceneMengawalMood : MonoBehaviour {
+public class sceneMengawalMood : MonoBehaviour
+{
+    public void Quit()
+    {
+        Application.Quit();
+    }
 
     public void kembali()
     {

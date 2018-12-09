@@ -4,7 +4,12 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class sceneModulHentiRokok : MonoBehaviour {
+public class sceneModulHentiRokok : MonoBehaviour
+{
+    public void Quit()
+    {
+        Application.Quit();
+    }
 
     public void kembali()
     {

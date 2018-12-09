@@ -5,6 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class sceneMengawalStress : MonoBehaviour
 {
+    public void Quit()
+    {
+        Application.Quit();
+    }
 
     public void kembali()
     {
