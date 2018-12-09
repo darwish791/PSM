@@ -5,7 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/Scenes/Main menu.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Scene/Modul Henti Rokok/Kenapa Perlu henti/Berapa Banyak Wang
+      Boleh Dijimatkan.unity
+    guid: 31c5c45f8d02b564981f8b74bcf01aab
   m_configObjects: {}
