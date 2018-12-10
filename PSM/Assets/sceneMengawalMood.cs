@@ -12,6 +12,6 @@ public class sceneMengawalMood : MonoBehaviour
 
     public void kembali()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(4);
     }
 }

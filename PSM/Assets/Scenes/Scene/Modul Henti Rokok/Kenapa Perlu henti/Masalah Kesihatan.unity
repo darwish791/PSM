@@ -414,6 +414,25 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1115948541366728, guid: 9271c28bea5c73d4f9bd46b0ff988885, type: 2}
+      propertyPath: m_Name
+      value: Scroll View
+      objectReference: {fileID: 0}
+    - target: {fileID: 224859363247101450, guid: 9271c28bea5c73d4f9bd46b0ff988885,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 54.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114418528543688008, guid: 9271c28bea5c73d4f9bd46b0ff988885,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114418528543688008, guid: 9271c28bea5c73d4f9bd46b0ff988885,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.3019608
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9271c28bea5c73d4f9bd46b0ff988885, type: 2}
   m_IsPrefabAsset: 0
