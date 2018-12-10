@@ -12,6 +12,6 @@ public class sceneKadImbasAR : MonoBehaviour {
 
     public void kembali()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 }
