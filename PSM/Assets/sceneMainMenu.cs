@@ -10,6 +10,11 @@ public class sceneMainMenu : MonoBehaviour {
         SceneManager.LoadScene(1);
     }
 
+    public void Kad_Imbas()
+    {
+        SceneManager.LoadScene(2);
+    }
+
     public void Quit()
     {
         Application.Quit();
